@@ -1,0 +1,15 @@
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\bin\Debug\net8.0\NewsAggregator.exe
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\bin\Debug\net8.0\NewsAggregator.deps.json
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\bin\Debug\net8.0\NewsAggregator.runtimeconfig.json
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\bin\Debug\net8.0\NewsAggregator.dll
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\bin\Debug\net8.0\NewsAggregator.pdb
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\NewsAggregator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\NewsAggregator.AssemblyInfoInputs.cache
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\NewsAggregator.AssemblyInfo.cs
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\NewsAggregator.csproj.CoreCompileInputs.cache
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\NewsAggregator.dll
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\refint\NewsAggregator.dll
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\NewsAggregator.pdb
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\NewsAggregator.genruntimeconfig.cache
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\ref\NewsAggregator.dll
+D:\Универ\5 семестр\СИТАРИС\NewsAggregator\obj\Debug\net8.0\NewsAggr.B89CDA8D.Up2Date
